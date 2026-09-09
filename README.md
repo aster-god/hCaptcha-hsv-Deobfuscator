@@ -146,10 +146,3 @@ Contributions are welcome! For significant changes, please open an issue first t
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## My Links
-- [Website](https://glizzykingdreko.github.io)
-- [GitHub](https://github.com/glizzykingdreko)
-- [Twitter](https://mobile.twitter.com/glizzykingdreko)
-- [Medium](https://medium.com/@glizzykingdreko)
-- [Email](mailto:glizzykingdreko@protonmail.com)
